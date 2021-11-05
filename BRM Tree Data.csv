@@ -1,0 +1,161 @@
+name,parent,value
+Process Benefit,,
+Establish Claim,Process Benefit,1
+Develop Claim,Process Benefit,1
+Determine Entitlement,Process Benefit,1
+Manage Benefit Award,Process Benefit,1
+Health Care Admin,,
+Health Care Business,Health Care Admin,1
+Hospital Admin,Health Care Admin,1
+Deliver Health Care,,
+Clinical Care Services,Deliver Health Care,1
+Ancillary Services,Deliver Health Care,1
+Common Clinical Support,Deliver Health Care,1
+Health Related Services,Deliver Health Care,1
+Health Care Research,,
+Research Strategic Direction,Health Care Research,1
+Research Proposals,Health Care Research,1
+Research Proposals,Health Care Research,1
+Research Environment,Health Care Research,1
+Health Care Research,Health Care Research,1
+Share Research Results,Health Care Research,1
+Apply Research Results,Health Care Research,1
+Health Care Education,,
+VHA Clinical Health Trainees Oversight,Health Care Education,1
+Relationships with External Institutions,Health Care Education,1
+Public Health,,
+Health Agencies,Public Health,1
+Environmental Health,Public Health,1
+Clinical Public Health,Public Health,1
+Public Health Assessment,Public Health,1
+Medical Registry Svc,Public Health,1
+Public Health Alerts,Public Health,1
+Coordinate Homeless Program,,
+Administer Benefits,,
+Compensation Services,Administer Benefits,1
+Pension & Fiduciary Benefits,Administer Benefits,1
+Life Insurance Benefits,Administer Benefits,1
+Education Services,Administer Benefits,1
+Loan Guaranty,Administer Benefits,1
+Admin Vet Readiness and Employ Benefits,Administer Benefits,1
+Transition Assistance Benefits,Administer Benefits,1
+Manage Appeals,,
+Decision Reviews,Manage Appeals,1
+Adjudicate Appeal to Board,Manage Appeals,1
+Veterans Employment & Retention,,
+External Veterans Affairs Relationships,,
+Customer Services,External Veterans Affairs Relationships,1
+Benefits & Services Outreach,External Veterans Affairs Relationships,1
+Public Relations,External Veterans Affairs Relationships,1
+Manage Partnerships,External Veterans Affairs Relationships,1
+Acq Mgmt,,
+Acq Planning,Acq Mgmt,1
+Acq Package Preparation,Acq Mgmt,1
+Acq Source Selection,Acq Mgmt,1
+Contracts Admin,Acq Mgmt,1
+Purchase Card Mgmt,Acq Mgmt,1
+Purchase Catalog Mgmt,Acq Mgmt,1
+Budget Formulation,,
+Budget Preparation Analysis,Budget Formulation,1
+Budget Request Planning & Submission,Budget Formulation,1
+Budget Spend Planning & Monitoring,Budget Formulation,1
+Financial Mgmt,,
+Budget Execution,Financial Mgmt,1
+Financial Asset Info Mgmt,Financial Mgmt,1
+Payable Mgmt,Financial Mgmt,1
+Revenue Mgmt,Financial Mgmt,1
+Reimbursable Mgmt,Financial Mgmt,1
+Receivable & Collection Mgmt,Financial Mgmt,1
+Delinquent Debt Mgmt,Financial Mgmt,1
+Cost Mgmt,Financial Mgmt,1
+General Ledger Mgmt,Financial Mgmt,1
+Financial Reconciliation,Financial Mgmt,1
+Financial / Perf Rptg,Financial Mgmt,1
+Agent Cashier,Financial Mgmt,1
+Grants Mgmt,,
+Grant Program Admin,Grants Mgmt,1
+Grant Pre-Award Mgmt,Grants Mgmt,1
+Grant Award Mgmt,Grants Mgmt,1
+Grant Post-Award Mgmt & Closeout,Grants Mgmt,1
+Grant Program Oversight,Grants Mgmt,1
+Grant Recipient Oversight,Grants Mgmt,1
+Human Capital Mgmt,,
+"Human Capital Strat, Policy, & Ops Plan",Human Capital Mgmt,1
+Talent Acq,Human Capital Mgmt,1
+Talent Dev,Human Capital Mgmt,1
+Employee Perf Mgmt,Human Capital Mgmt,1
+Compensation & Benefits,Human Capital Mgmt,1
+Separation & Retirement,Human Capital Mgmt,1
+Employee Relation & Continuous Vetting,Human Capital Mgmt,1
+Labor Relations,Human Capital Mgmt,1
+Workforce Analytics & Employee Records,Human Capital Mgmt,1
+Agency Human Capital Eval,Human Capital Mgmt,1
+Manage Volunteers,Human Capital Mgmt,1
+IT Services,,
+IT Infrastructure,IT Services,1
+IT Operations,IT Services,1
+IT Systems Lifecycle,IT Services,1
+IT Portfolio Mgmt,IT Services,1
+IT Security,IT Services,1
+Mail Operations Mgmt,,
+Interoffice & Interagency Mail,Mail Operations Mgmt,1
+USPS & Other Carrier Mail,Mail Operations Mgmt,1
+Special Handling & Delivery Mail,Mail Operations Mgmt,1
+Property Mgmt,,
+Property Acq & Control,Property Mgmt,1
+Property Design & Dev,Property Mgmt,1
+Property Operations Mgmt,Property Mgmt,1
+Inventory & Equipment,Property Mgmt,1
+Long-Range & Annual Capital Investments,Property Mgmt,1
+Sales Order & Fulfillment Mgmt,,
+Sales Ordering Mgmt,Sales Order & Fulfillment Mgmt,1
+Sales Inventory/Fulfillment Mgmt,Sales Order & Fulfillment Mgmt,1
+Sales Customer Relationship Mgmt,Sales Order & Fulfillment Mgmt,1
+"Legislative, & Regulatory Affairs",,
+VA's Legislative Strategy & Priorities,"Legislative, & Regulatory Affairs",1
+Regulatory Development,"Legislative, & Regulatory Affairs",1
+Legislative Proposals,"Legislative, & Regulatory Affairs",1
+Congressional Liaison Operations,"Legislative, & Regulatory Affairs",1
+Enterprise Governance,,
+Enterprise Requirements Mgmt,Enterprise Governance,1
+Accountability & Compliance,Enterprise Governance,1
+Perf & Risk,Enterprise Governance,1
+Perf Improvement,Enterprise Governance,1
+Manage Advisory Committees ,Enterprise Governance,1
+Org Leadership & Admin Support,,
+Org Leadership & Oversight,Org Leadership & Admin Support,1
+Office Admin Support Functions,Org Leadership & Admin Support,1
+Legal Guidance & Representation,,
+Security Operations,,
+Coordinate Continuity Ops,Security Operations,1
+Disasters and Emergencies,Security Operations,1
+Respond to Disasters,Security Operations,1
+Integrated Operations Center,Security Operations,1
+Physical & Personnel Security,,
+Law Enforcement,Physical & Personnel Security,1
+Enforcement Oversight,Physical & Personnel Security,1
+Facility Security,Physical & Personnel Security,1
+Executive Protection,Physical & Personnel Security,1
+"Identification, Authentication & Access",Physical & Personnel Security,1
+Manage Information,,
+Enterprise Architecture,Manage Information,1
+Information Security,Manage Information,1
+Knowledge Capture & Sharing,Manage Information,1
+Government Records,Manage Information,1
+Data Governance ,Manage Information,1
+Enterprise Data Mgmt,Manage Information,1
+Business Intelligence Services,Manage Information,1
+Memorial Benefits & Services,,
+Veteran Interments Memorial Services,Memorial Benefits & Services,1
+Interment Services,Memorial Benefits & Services,1
+Disinterments Services,Memorial Benefits & Services,1
+Ceremonial Services Holidays & Events,Memorial Benefits & Services,1
+Guest & Family Visitation,Memorial Benefits & Services,1
+Cemetery Grounds and Gravesites,Memorial Benefits & Services,1
+Veteran Memorialization,Memorial Benefits & Services,1
+"Travel, Relocation & Fleet Mgmt",,
+Temporary Duty & Local Travel Processing,"Travel, Relocation & Fleet Mgmt",1
+Temporary & Permanent Change of Station,"Travel, Relocation & Fleet Mgmt",1
+Travel & Fleet Card Mgmt,"Travel, Relocation & Fleet Mgmt",1
+Fleet Mgmt,"Travel, Relocation & Fleet Mgmt",1
+Subsidy Program Mgmt,"Travel, Relocation & Fleet Mgmt",1
