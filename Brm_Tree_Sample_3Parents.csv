@@ -1,0 +1,14 @@
+name,parent,value
+Process Benefit,,
+Establish Claim,Process Benefit,1
+Develop Claim,Process Benefit,1
+Determine Entitlement,Process Benefit,1
+Manage Benefit Award,Process Benefit,1
+Health Care Admin,,
+Health Care Business,Health Care Admin,1
+Hospital Admin,Health Care Admin,1
+Deliver Health Care,,
+Clinical Care Services,Deliver Health Care,1
+Ancillary Services,Deliver Health Care,1
+Common Clinical Support,Deliver Health Care,1
+Health Related Services,Deliver Health Care,1
