@@ -4,37 +4,37 @@
             "name": "Acq Mgmt",
             "children": [
                 {
-                    "name": "ContractsAdmin",
+                    "name": "Contracts Admin",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "A"
                 },
                 {
-                    "name": "AcqPackagePreparation",
+                    "name": "Acq Package Preparation",
                     "value": 1.0,
                     "colname": "level3",
                     "group": "A"
                 },
                 {
-                    "name": "AcqPlanning",
+                    "name": "Acq Planning",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "A"
                 },
                 {
-                    "name": "AcqSourceSelection",
+                    "name": "Acq Source Selection",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "A"
                 },
                 {
-                    "name": "PurchaseCardMgmt",
+                    "name": "Purchase Card Mgmt",
                     "value": 0.9999996,
                     "colname": "level3",
                     "group": "A"
                 },
                 {
-                    "name": "PurchaseCatalogMgmt",
+                    "name": "Purchase Catalog Mgmt",
                     "value": 0.9999995,
                     "colname": "level3",
                     "group": "A"
@@ -51,43 +51,43 @@
                     "group": "B"
                 },
                 {
-                    "name": "AdminVetReadinessandEmployBenefits",
+                    "name": "Admin Vet Readiness and Employ Benefits",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "B"
                 },
                 {
-                    "name": "CompensationServices",
+                    "name": "Compensation Services",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "B"
                 },
                 {
-                    "name": "EducationServices",
+                    "name": "Education Services",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "B"
                 },
                 {
-                    "name": "LifeInsuranceBenefits",
+                    "name": "Life Insurance Benefits",
                     "value": 0.9999996,
                     "colname": "level3",
                     "group": "B"
                 },
                 {
-                    "name": "Pension&FiduciaryBenefits",
+                    "name": "Pension & Fiduciary Benefits",
                     "value": 0.9999994,
                     "colname": "level3",
                     "group": "B"
                 },
                 {
-                    "name": "TransitionAssistanceBenefits",
+                    "name": "Transition Assistance Benefits",
                     "value": 0.9999993,
                     "colname": "level3",
                     "group": "B"
                 },
                 {
-                    "name": "LoanGuaranty",
+                    "name": "Loan Guaranty",
                     "value": 0.9999995,
                     "colname": "level3",
                     "group": "B"
@@ -98,19 +98,19 @@
             "name": "Budget Formulation",
             "children": [
                 {
-                    "name": "BudgetSpendPlanning&Monitoring",
+                    "name": "Budget Spend Planning & Monitoring",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "C"
                 },
                 {
-                    "name": "BudgetRequestPlanning&Submission",
+                    "name": "Budget Request Planning & Submission",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "C"
                 },
                 {
-                    "name": "BudgetPreparationAnalysis",
+                    "name": "Budget Preparation Analysis",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "C"
@@ -138,25 +138,25 @@
             "name": "Deliver Health Care",
             "children": [
                 {
-                    "name": "HealthRelatedServices",
+                    "name": "Health Related Services",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "E"
                 },
                 {
-                    "name": "CommonClinicalSupport",
+                    "name": "Common Clinical Support",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "E"
                 },
                 {
-                    "name": "ClinicalCareServices",
+                    "name": "Clinical Care Services",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "E"
                 },
                 {
-                    "name": "AncillaryServices",
+                    "name": "Ancillary Services",
                     "value": 1.0,
                     "colname": "level3",
                     "group": "E"
@@ -167,31 +167,31 @@
             "name": "Enterprise Governance",
             "children": [
                 {
-                    "name": "EnterpriseRequirementsMgmt",
+                    "name": "Enterprise Requirements Mgmt",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "F"
                 },
                 {
-                    "name": "Accountability&Compliance",
+                    "name": "Accountability & Compliance",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "F"
                 },
                 {
-                    "name": "PerfImprovement",
+                    "name": "Perf Improvement",
                     "value": 0.9999995,
                     "colname": "level3",
                     "group": "F"
                 },
                 {
-                    "name": "Perf&Risk",
+                    "name": "Perf & Risk",
                     "value": 0.9999996,
                     "colname": "level3",
                     "group": "F"
                 },
                 {
-                    "name": "ManageAdvisoryCommittees",
+                    "name": "Manage Advisory Committees ",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "F"
@@ -208,25 +208,25 @@
             "name": "External Veterans Affairs Relationships",
             "children": [
                 {
-                    "name": "CustomerServices",
+                    "name": "Customer Services",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "G"
                 },
                 {
-                    "name": "Benefits&ServicesOutreach",
+                    "name": "Benefits & Services Outreach",
                     "value": 1.0,
                     "colname": "level3",
                     "group": "G"
                 },
                 {
-                    "name": "PublicRelations",
+                    "name": "Public Relations",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "G"
                 },
                 {
-                    "name": "ManagePartnerships",
+                    "name": "Manage Partnerships",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "G"
@@ -237,73 +237,73 @@
             "name": "Financial Mgmt",
             "children": [
                 {
-                    "name": "FinancialPerfRptg",
+                    "name": "Financial Perf Rptg",
                     "value": 0.9999996,
                     "colname": "level3",
                     "group": "H"
                 },
                 {
-                    "name": "GeneralLedgerMgmt",
+                    "name": "General Ledger Mgmt",
                     "value": 0.9999993,
                     "colname": "level3",
                     "group": "H"
                 },
                 {
-                    "name": "PayableMgmt",
+                    "name": "Payable Mgmt",
                     "value": 0.9999992,
                     "colname": "level3",
                     "group": "H"
                 },
                 {
-                    "name": "DelinquentDebtMgmt",
+                    "name": "Delinquent Debt Mgmt",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "H"
                 },
                 {
-                    "name": "CostMgmt",
+                    "name": "Cost Mgmt",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "H"
                 },
                 {
-                    "name": "BudgetExecution",
+                    "name": "Budget Execution",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "H"
                 },
                 {
-                    "name": "AgentCashier",
+                    "name": "Agent Cashier",
                     "value": 1.0,
                     "colname": "level3",
                     "group": "H"
                 },
                 {
-                    "name": "RevenueMgmt",
+                    "name": "Revenue Mgmt",
                     "value": 0.9999989,
                     "colname": "level3",
                     "group": "H"
                 },
                 {
-                    "name": "FinancialReconciliation",
+                    "name": "Financial Reconciliation",
                     "value": 0.9999994,
                     "colname": "level3",
                     "group": "H"
                 },
                 {
-                    "name": "FinancialAssetInfoMgmt",
+                    "name": "Financial Asset Info Mgmt",
                     "value": 0.9999995,
                     "colname": "level3",
                     "group": "H"
                 },
                 {
-                    "name": "ReimbursableMgmt",
+                    "name": "Reimbursable Mgmt",
                     "value": 0.999999,
                     "colname": "level3",
                     "group": "H"
                 },
                 {
-                    "name": "Receivable&CollectionMgmt",
+                    "name": "Receivable & Collection Mgmt",
                     "value": 0.9999991,
                     "colname": "level3",
                     "group": "H"
@@ -314,37 +314,37 @@
             "name": "Grants Mgmt",
             "children": [
                 {
-                    "name": "GrantAwardMgmt",
+                    "name": "Grant Award Mgmt",
                     "value": 1.0,
                     "colname": "level3",
                     "group": "I"
                 },
                 {
-                    "name": "GrantRecipientOversight",
+                    "name": "Grant Recipient Oversight",
                     "value": 0.9999995,
                     "colname": "level3",
                     "group": "I"
                 },
                 {
-                    "name": "GrantPost-AwardMgmt&Closeout",
+                    "name": "Grant Post-Award Mgmt & Closeout",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "I"
                 },
                 {
-                    "name": "GrantProgramAdmin",
+                    "name": "Grant Program Admin",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "I"
                 },
                 {
-                    "name": "GrantPre-AwardMgmt",
+                    "name": "Grant Pre-Award Mgmt",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "I"
                 },
                 {
-                    "name": "GrantProgramOversight",
+                    "name": "Grant Program Oversight",
                     "value": 0.9999996,
                     "colname": "level3",
                     "group": "I"
@@ -355,13 +355,13 @@
             "name": "Health Care Admin",
             "children": [
                 {
-                    "name": "HospitalAdmin",
+                    "name": "Hospital Admin",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "J"
                 },
                 {
-                    "name": "HealthCareBusiness",
+                    "name": "Health Care Business",
                     "value": 1.0,
                     "colname": "level3",
                     "group": "J"
@@ -372,13 +372,13 @@
             "name": "Health Care Education",
             "children": [
                 {
-                    "name": "VHAClinicalHealthTraineesOversight",
+                    "name": "VHA Clinical Health Trainees Oversight",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "K"
                 },
                 {
-                    "name": "RelationshipswithExternalInstitutions",
+                    "name": "Relationships with External Institutions",
                     "value": 1.0,
                     "colname": "level3",
                     "group": "K"
@@ -389,37 +389,37 @@
             "name": "Health Care Research",
             "children": [
                 {
-                    "name": "WriteResearchProposals",
+                    "name": "Write Research Proposals",
                     "value": 0.9999993,
                     "colname": "level3",
                     "group": "L"
                 },
                 {
-                    "name": "ResearchStrategicDirection",
+                    "name": "Research Strategic Direction",
                     "value": 0.9999995,
                     "colname": "level3",
                     "group": "L"
                 },
                 {
-                    "name": "ResearchEnvironment",
+                    "name": "Research Environment",
                     "value": 0.9999996,
                     "colname": "level3",
                     "group": "L"
                 },
                 {
-                    "name": "HealthCareResearch",
+                    "name": "Health Care Research",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "L"
                 },
                 {
-                    "name": "EvaluateResearchProposals",
+                    "name": "Evaluate Research Proposals",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "L"
                 },
                 {
-                    "name": "ApplyResearchResults",
+                    "name": "Apply Research Results",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "L"
@@ -431,7 +431,7 @@
                     "group": "L"
                 },
                 {
-                    "name": "ShareResearchResults",
+                    "name": "Share Research Results",
                     "value": 0.9999994,
                     "colname": "level3",
                     "group": "L"
@@ -442,67 +442,67 @@
             "name": "Human Capital Mgmt",
             "children": [
                 {
-                    "name": "Separation&Retirement",
+                    "name": "Separation & Retirement",
                     "value": 0.9999992,
                     "colname": "level3",
                     "group": "M"
                 },
                 {
-                    "name": "LaborRelations",
+                    "name": "Labor Relations",
                     "value": 0.9999994,
                     "colname": "level3",
                     "group": "M"
                 },
                 {
-                    "name": "ManageVolunteers",
+                    "name": "Manage Volunteers",
                     "value": 0.9999993,
                     "colname": "level3",
                     "group": "M"
                 },
                 {
-                    "name": "EmployeeRelation&ContinuousVetting",
+                    "name": "Employee Relation & Continuous Vetting",
                     "value": 0.9999996,
                     "colname": "level3",
                     "group": "M"
                 },
                 {
-                    "name": "TalentAcq",
+                    "name": "Talent Acq",
                     "value": 0.9999991,
                     "colname": "level3",
                     "group": "M"
                 },
                 {
-                    "name": "TalentDev",
+                    "name": "Talent Dev",
                     "value": 0.999999,
                     "colname": "level3",
                     "group": "M"
                 },
                 {
-                    "name": "WorkforceAnalytics&EmployeeRecords",
+                    "name": "Workforce Analytics & Employee Records",
                     "value": 0.9999989,
                     "colname": "level3",
                     "group": "M"
                 },
                 {
-                    "name": "HumanCapitalStrat,Policy,&OpsPlan",
+                    "name": "Human Capital Strat, Policy, & Ops Plan",
                     "value": 0.9999995,
                     "colname": "level3",
                     "group": "M"
                 },
                 {
-                    "name": "Compensation&Benefits",
+                    "name": "Compensation & Benefits",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "M"
                 },
                 {
-                    "name": "EmployeePerfMgmt",
+                    "name": "Employee Perf Mgmt",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "M"
                 },
                 {
-                    "name": "AgencyHumanCapitalEval",
+                    "name": "Agency Human Capital Eval",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "M"
@@ -519,25 +519,25 @@
             "name": "IT Services",
             "children": [
                 {
-                    "name": "ITSystemsLifecycle",
+                    "name": "IT Systems Lifecycle",
                     "value": 0.9999995,
                     "colname": "level3",
                     "group": "N"
                 },
                 {
-                    "name": "ITSecurity",
+                    "name": "IT Security",
                     "value": 0.9999996,
                     "colname": "level3",
                     "group": "N"
                 },
                 {
-                    "name": "ITPortfolioMgmt",
+                    "name": "IT Portfolio Mgmt",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "N"
                 },
                 {
-                    "name": "ITOperations",
+                    "name": "IT Operations",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "N"
@@ -549,7 +549,7 @@
                     "group": "N"
                 },
                 {
-                    "name": "ITInfrastructure",
+                    "name": "IT Infrastructure",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "N"
@@ -571,25 +571,25 @@
             "name": "Legislative, & Regulatory Affairs",
             "children": [
                 {
-                    "name": "CongressionalLiaisonOperations",
+                    "name": "Congressional Liaison Operations",
                     "value": 1.0,
                     "colname": "level3",
                     "group": "P"
                 },
                 {
-                    "name": "RegulatoryDevelopment",
+                    "name": "Regulatory Development",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "P"
                 },
                 {
-                    "name": "VA'sLegislativeStrategy&Priorities",
+                    "name": "VA's Legislative Strategy & Priorities",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "P"
                 },
                 {
-                    "name": "LegislativeProposals",
+                    "name": "Legislative Proposals",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "P"
@@ -606,19 +606,19 @@
                     "group": "Q"
                 },
                 {
-                    "name": "Interoffice&InteragencyMail",
+                    "name": "Interoffice & Interagency Mail",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "Q"
                 },
                 {
-                    "name": "SpecialHandling&DeliveryMail",
+                    "name": "Special Handling & Delivery Mail",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "Q"
                 },
                 {
-                    "name": "USPS&OtherCarrierMail",
+                    "name": "USPS & Other Carrier Mail",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "Q"
@@ -629,13 +629,13 @@
             "name": "Manage Appeals",
             "children": [
                 {
-                    "name": "AdjudicateAppealtoBoard",
+                    "name": "Adjudicate Appeal to Board",
                     "value": 1.0,
                     "colname": "level3",
                     "group": "R"
                 },
                 {
-                    "name": "DecisionReviews",
+                    "name": "Decision Reviews",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "R"
@@ -646,7 +646,7 @@
             "name": "Manage Information",
             "children": [
                 {
-                    "name": "BusinessIntelligenceServices",
+                    "name": "Business Intelligence Services",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "S"
@@ -658,37 +658,37 @@
                     "group": "S"
                 },
                 {
-                    "name": "GovernmentRecords",
+                    "name": "Government Records",
                     "value": 0.9999995,
                     "colname": "level3",
                     "group": "S"
                 },
                 {
-                    "name": "DataGovernance",
+                    "name": "Data Governance ",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "S"
                 },
                 {
-                    "name": "EnterpriseDataMgmt",
+                    "name": "Enterprise Data Mgmt",
                     "value": 0.9999996,
                     "colname": "level3",
                     "group": "S"
                 },
                 {
-                    "name": "EnterpriseArchitecture",
+                    "name": "Enterprise Architecture",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "S"
                 },
                 {
-                    "name": "KnowledgeCapture&Sharing",
+                    "name": "Knowledge Capture & Sharing",
                     "value": 0.9999993,
                     "colname": "level3",
                     "group": "S"
                 },
                 {
-                    "name": "InformationSecurity",
+                    "name": "Information Security",
                     "value": 0.9999994,
                     "colname": "level3",
                     "group": "S"
@@ -699,7 +699,7 @@
             "name": "Memorial Benefits & Services",
             "children": [
                 {
-                    "name": "CemeteryGroundsandGravesites",
+                    "name": "Cemetery Grounds and Gravesites",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "T"
@@ -711,37 +711,37 @@
                     "group": "T"
                 },
                 {
-                    "name": "CeremonialServicesHolidays&Events",
+                    "name": "Ceremonial Services Holidays & Events",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "T"
                 },
                 {
-                    "name": "DisintermentsServices",
+                    "name": "Disinterments Services",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "T"
                 },
                 {
-                    "name": "Guest&FamilyVisitation",
+                    "name": "Guest & Family Visitation",
                     "value": 0.9999996,
                     "colname": "level3",
                     "group": "T"
                 },
                 {
-                    "name": "IntermentServices",
+                    "name": "Interment Services",
                     "value": 0.9999995,
                     "colname": "level3",
                     "group": "T"
                 },
                 {
-                    "name": "VeteranIntermentsMemorialServices",
+                    "name": "Veteran Interments Memorial Services",
                     "value": 0.9999994,
                     "colname": "level3",
                     "group": "T"
                 },
                 {
-                    "name": "VeteranMemorialization",
+                    "name": "Veteran Memorialization",
                     "value": 0.9999993,
                     "colname": "level3",
                     "group": "T"
@@ -752,13 +752,13 @@
             "name": "Org Leadership & Admin Support",
             "children": [
                 {
-                    "name": "OfficeAdminSupportFunctions",
+                    "name": "Office Admin Support Functions",
                     "value": 1.0,
                     "colname": "level3",
                     "group": "U"
                 },
                 {
-                    "name": "OrgLeadership&Oversight",
+                    "name": "Org Leadership & Oversight",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "U"
@@ -769,31 +769,31 @@
             "name": "Physical & Personnel Security",
             "children": [
                 {
-                    "name": "ExecutiveProtection",
+                    "name": "Executive Protection",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "V"
                 },
                 {
-                    "name": "EnforcementOversight",
+                    "name": "Enforcement Oversight",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "V"
                 },
                 {
-                    "name": "Identification,Authentication&Access",
+                    "name": "Identification, Authentication & Access",
                     "value": 0.9999996,
                     "colname": "level3",
                     "group": "V"
                 },
                 {
-                    "name": "LawEnforcement",
+                    "name": "Law Enforcement",
                     "value": 0.9999995,
                     "colname": "level3",
                     "group": "V"
                 },
                 {
-                    "name": "FacilitySecurity",
+                    "name": "Facility Security",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "V"
@@ -810,25 +810,25 @@
             "name": "Process Benefit",
             "children": [
                 {
-                    "name": "DetermineEntitlement",
+                    "name": "Determine Entitlement",
                     "value": 1.0,
                     "colname": "level3",
                     "group": "W"
                 },
                 {
-                    "name": "EstablishClaim",
+                    "name": "Establish Claim",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "W"
                 },
                 {
-                    "name": "ManageBenefitAward",
+                    "name": "Manage Benefit Award",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "W"
                 },
                 {
-                    "name": "DevelopClaim",
+                    "name": "Develop Claim",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "W"
@@ -845,31 +845,31 @@
                     "group": "X"
                 },
                 {
-                    "name": "Inventory&Equipment",
+                    "name": "Inventory & Equipment",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "X"
                 },
                 {
-                    "name": "Long-Range&AnnualCapitalInvestments",
+                    "name": "Long-Range & Annual Capital Investments",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "X"
                 },
                 {
-                    "name": "PropertyDesign&Dev",
+                    "name": "Property Design & Dev",
                     "value": 0.9999996,
                     "colname": "level3",
                     "group": "X"
                 },
                 {
-                    "name": "PropertyAcq&Control",
+                    "name": "Property Acq & Control",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "X"
                 },
                 {
-                    "name": "PropertyOperationsMgmt",
+                    "name": "Property Operations Mgmt",
                     "value": 0.9999995,
                     "colname": "level3",
                     "group": "X"
@@ -880,37 +880,37 @@
             "name": "Public Health",
             "children": [
                 {
-                    "name": "MedicalRegistrySvc",
+                    "name": "Medical Registry Svc",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "Y"
                 },
                 {
-                    "name": "ClinicalPublicHealth",
+                    "name": "Clinical Public Health",
                     "value": 1.0,
                     "colname": "level3",
                     "group": "Y"
                 },
                 {
-                    "name": "EnvironmentalHealth",
+                    "name": "Environmental Health",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "Y"
                 },
                 {
-                    "name": "PublicHealthAssessment",
+                    "name": "Public Health Assessment",
                     "value": 0.9999995,
                     "colname": "level3",
                     "group": "Y"
                 },
                 {
-                    "name": "PublicHealthAlerts",
+                    "name": "Public Health Alerts",
                     "value": 0.9999996,
                     "colname": "level3",
                     "group": "Y"
                 },
                 {
-                    "name": "HealthAgencies",
+                    "name": "Health Agencies",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "Y"
@@ -927,19 +927,19 @@
                     "group": "Z"
                 },
                 {
-                    "name": "SalesCustomerRelationshipMgmt",
+                    "name": "Sales Customer Relationship Mgmt",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "Z"
                 },
                 {
-                    "name": "SalesInventoryFulfillmentMgmt",
+                    "name": "Sales Inventory Fulfillment Mgmt",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "Z"
                 },
                 {
-                    "name": "SalesOrderingMgmt",
+                    "name": "Sales Ordering Mgmt",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "Z"
@@ -950,25 +950,25 @@
             "name": "Security Operations",
             "children": [
                 {
-                    "name": "IntegratedOperationsCenter",
+                    "name": "Integrated Operations Center",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "a"
                 },
                 {
-                    "name": "CoordinateContinuityOps",
+                    "name": "Coordinate Continuity Ops",
                     "value": 1.0,
                     "colname": "level3",
                     "group": "a"
                 },
                 {
-                    "name": "RespondtoDisasters",
+                    "name": "Respond to Disasters",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "a"
                 },
                 {
-                    "name": "DisastersandEmergencies",
+                    "name": "Disasters and Emergencies",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "a"
@@ -979,19 +979,19 @@
             "name": "Travel, Relocation & Fleet Mgmt",
             "children": [
                 {
-                    "name": "Temporary&PermanentChangeofStation",
+                    "name": "Temporary & Permanent Change of Station",
                     "value": 0.9999997,
                     "colname": "level3",
                     "group": "b"
                 },
                 {
-                    "name": "SubsidyProgramMgmt",
+                    "name": "Subsidy Program Mgmt",
                     "value": 0.9999998,
                     "colname": "level3",
                     "group": "b"
                 },
                 {
-                    "name": "Travel&FleetCardMgmt",
+                    "name": "Travel & Fleet Card Mgmt",
                     "value": 0.9999995,
                     "colname": "level3",
                     "group": "b"
@@ -1003,13 +1003,13 @@
                     "group": "b"
                 },
                 {
-                    "name": "TemporaryDuty&LocalTravelProcessing",
+                    "name": "Temporary Duty & Local Travel Processing",
                     "value": 0.9999996,
                     "colname": "level3",
                     "group": "b"
                 },
                 {
-                    "name": "FleetMgmt",
+                    "name": "Fleet Mgmt",
                     "value": 0.9999999,
                     "colname": "level3",
                     "group": "b"
