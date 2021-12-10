@@ -7,37 +7,43 @@
                     "name": "Acq Package Preparation",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "A"
+                    "group": "A",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Acq Planning",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "A"
+                    "group": "A",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Acq Source Selection",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "A"
+                    "group": "A",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Contracts Admin",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "A"
+                    "group": "A",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Purchase Card Mgmt",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "A"
+                    "group": "A",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Purchase Catalog Mgmt",
                     "value": 0.9999995,
                     "colname": "level3",
-                    "group": "A"
+                    "group": "A",
+                    "color": "#a6adad"
                 }
             ]
         },
@@ -48,49 +54,57 @@
                     "name": "Admin Vet Readiness and Employ Benefits",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "B"
+                    "group": "B",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Compensation Services",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "B"
+                    "group": "B",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Education Services",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "B"
+                    "group": "B",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Life Insurance Benefits",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "B"
+                    "group": "B",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Loan Guaranty",
                     "value": 0.9999995,
                     "colname": "level3",
-                    "group": "B"
+                    "group": "B",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Pension & Fiduciary Benefits",
                     "value": 0.9999994,
                     "colname": "level3",
-                    "group": "B"
+                    "group": "B",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Transition Assistance Benefits",
                     "value": 0.9999993,
                     "colname": "level3",
-                    "group": "B"
+                    "group": "B",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "",
                     "value": 0.9999992,
                     "colname": "level3",
-                    "group": "B"
+                    "group": "B",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -101,25 +115,29 @@
                     "name": "Budget Preparation Analysis",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "C"
+                    "group": "C",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Budget Request Planning & Submission",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "C"
+                    "group": "C",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Budget Spend Planning & Monitoring",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "C"
+                    "group": "C",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "C"
+                    "group": "C",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -130,7 +148,8 @@
                     "name": "",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "D"
+                    "group": "D",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -141,25 +160,29 @@
                     "name": "Ancillary Services",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "E"
+                    "group": "E",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Clinical Care Services",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "E"
+                    "group": "E",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Common Clinical Support",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "E"
+                    "group": "E",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Health Related Services",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "E"
+                    "group": "E",
+                    "color": "#a6adad"
                 }
             ]
         },
@@ -170,37 +193,43 @@
                     "name": "Accountability & Compliance",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "F"
+                    "group": "F",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Enterprise Requirements Mgmt",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "F"
+                    "group": "F",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Manage Advisory Committees ",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "F"
+                    "group": "F",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Perf & Risk",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "F"
+                    "group": "F",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Perf Improvement",
                     "value": 0.9999995,
                     "colname": "level3",
-                    "group": "F"
+                    "group": "F",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "",
                     "value": 0.9999994,
                     "colname": "level3",
-                    "group": "F"
+                    "group": "F",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -211,25 +240,29 @@
                     "name": "Benefits & Services Outreach",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "G"
+                    "group": "G",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Customer Services",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "G"
+                    "group": "G",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Manage Partnerships",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "G"
+                    "group": "G",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Public Relations",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "G"
+                    "group": "G",
+                    "color": "#a6adad"
                 }
             ]
         },
@@ -240,73 +273,85 @@
                     "name": "Agent Cashier",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "H"
+                    "group": "H",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Budget Execution",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "H"
+                    "group": "H",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Cost Mgmt",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "H"
+                    "group": "H",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Delinquent Debt Mgmt",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "H"
+                    "group": "H",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Financial Asset Info Mgmt",
                     "value": 0.9999995,
                     "colname": "level3",
-                    "group": "H"
+                    "group": "H",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Financial Perf Rptg",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "H"
+                    "group": "H",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Financial Reconciliation",
                     "value": 0.9999994,
                     "colname": "level3",
-                    "group": "H"
+                    "group": "H",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "General Ledger Mgmt",
                     "value": 0.9999993,
                     "colname": "level3",
-                    "group": "H"
+                    "group": "H",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Payable Mgmt",
                     "value": 0.9999992,
                     "colname": "level3",
-                    "group": "H"
+                    "group": "H",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Receivable & Collection Mgmt",
                     "value": 0.9999991,
                     "colname": "level3",
-                    "group": "H"
+                    "group": "H",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Reimbursable Mgmt",
                     "value": 0.999999,
                     "colname": "level3",
-                    "group": "H"
+                    "group": "H",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Revenue Mgmt",
                     "value": 0.9999989,
                     "colname": "level3",
-                    "group": "H"
+                    "group": "H",
+                    "color": "#a6adad"
                 }
             ]
         },
@@ -317,37 +362,43 @@
                     "name": "Grant Award Mgmt",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "I"
+                    "group": "I",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Grant Post-Award Mgmt & Closeout",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "I"
+                    "group": "I",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Grant Pre-Award Mgmt",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "I"
+                    "group": "I",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Grant Program Admin",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "I"
+                    "group": "I",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Grant Program Oversight",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "I"
+                    "group": "I",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Grant Recipient Oversight",
                     "value": 0.9999995,
                     "colname": "level3",
-                    "group": "I"
+                    "group": "I",
+                    "color": "#a6adad"
                 }
             ]
         },
@@ -358,13 +409,15 @@
                     "name": "Health Care Business",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "J"
+                    "group": "J",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Hospital Admin",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "J"
+                    "group": "J",
+                    "color": "#a6adad"
                 }
             ]
         },
@@ -375,13 +428,15 @@
                     "name": "Relationships with External Institutions",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "K"
+                    "group": "K",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "VHA Clinical Health Trainees Oversight",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "K"
+                    "group": "K",
+                    "color": "#a6adad"
                 }
             ]
         },
@@ -392,49 +447,57 @@
                     "name": "Apply Research Results",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "L"
+                    "group": "L",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Evaluate Research Proposals",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "L"
+                    "group": "L",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Health Care Research",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "L"
+                    "group": "L",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Research Environment",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "L"
+                    "group": "L",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Research Strategic Direction",
                     "value": 0.9999995,
                     "colname": "level3",
-                    "group": "L"
+                    "group": "L",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Share Research Results",
                     "value": 0.9999994,
                     "colname": "level3",
-                    "group": "L"
+                    "group": "L",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Write Research Proposals",
                     "value": 0.9999993,
                     "colname": "level3",
-                    "group": "L"
+                    "group": "L",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "",
                     "value": 0.9999992,
                     "colname": "level3",
-                    "group": "L"
+                    "group": "L",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -445,73 +508,85 @@
                     "name": "Agency Human Capital Eval",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "M"
+                    "group": "M",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Compensation & Benefits",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "M"
+                    "group": "M",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Employee Perf Mgmt",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "M"
+                    "group": "M",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Employee Relation & Continuous Vetting",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "M"
+                    "group": "M",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Human Capital Strat, Policy, & Ops Plan",
                     "value": 0.9999995,
                     "colname": "level3",
-                    "group": "M"
+                    "group": "M",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Labor Relations",
                     "value": 0.9999994,
                     "colname": "level3",
-                    "group": "M"
+                    "group": "M",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Manage Volunteers",
                     "value": 0.9999993,
                     "colname": "level3",
-                    "group": "M"
+                    "group": "M",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Separation & Retirement",
                     "value": 0.9999992,
                     "colname": "level3",
-                    "group": "M"
+                    "group": "M",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Talent Acq",
                     "value": 0.9999991,
                     "colname": "level3",
-                    "group": "M"
+                    "group": "M",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Talent Dev",
                     "value": 0.999999,
                     "colname": "level3",
-                    "group": "M"
+                    "group": "M",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Workforce Analytics & Employee Records",
                     "value": 0.9999989,
                     "colname": "level3",
-                    "group": "M"
+                    "group": "M",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "",
                     "value": 0.9999988,
                     "colname": "level3",
-                    "group": "M"
+                    "group": "M",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -522,37 +597,43 @@
                     "name": "IT Infrastructure",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "N"
+                    "group": "N",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "IT Operations",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "N"
+                    "group": "N",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "IT Portfolio Mgmt",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "N"
+                    "group": "N",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "IT Security",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "N"
+                    "group": "N",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "IT Systems Lifecycle",
                     "value": 0.9999995,
                     "colname": "level3",
-                    "group": "N"
+                    "group": "N",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "",
                     "value": 0.9999994,
                     "colname": "level3",
-                    "group": "N"
+                    "group": "N",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -563,7 +644,8 @@
                     "name": "",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "O"
+                    "group": "O",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -574,25 +656,29 @@
                     "name": "Congressional Liaison Operations",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "P"
+                    "group": "P",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Legislative Proposals",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "P"
+                    "group": "P",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Regulatory Development",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "P"
+                    "group": "P",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "VA's Legislative Strategy & Priorities",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "P"
+                    "group": "P",
+                    "color": "#a6adad"
                 }
             ]
         },
@@ -603,25 +689,29 @@
                     "name": "Interoffice & Interagency Mail",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "Q"
+                    "group": "Q",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Special Handling & Delivery Mail",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "Q"
+                    "group": "Q",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "USPS & Other Carrier Mail",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "Q"
+                    "group": "Q",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "Q"
+                    "group": "Q",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -632,13 +722,15 @@
                     "name": "Adjudicate Appeal to Board",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "R"
+                    "group": "R",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Decision Reviews",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "R"
+                    "group": "R",
+                    "color": "#a6adad"
                 }
             ]
         },
@@ -649,49 +741,57 @@
                     "name": "Business Intelligence Services",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "S"
+                    "group": "S",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Data Governance ",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "S"
+                    "group": "S",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Enterprise Architecture",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "S"
+                    "group": "S",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Enterprise Data Mgmt",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "S"
+                    "group": "S",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Government Records",
                     "value": 0.9999995,
                     "colname": "level3",
-                    "group": "S"
+                    "group": "S",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Information Security",
                     "value": 0.9999994,
                     "colname": "level3",
-                    "group": "S"
+                    "group": "S",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Knowledge Capture & Sharing",
                     "value": 0.9999993,
                     "colname": "level3",
-                    "group": "S"
+                    "group": "S",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "",
                     "value": 0.9999992,
                     "colname": "level3",
-                    "group": "S"
+                    "group": "S",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -702,49 +802,57 @@
                     "name": "Cemetery Grounds and Gravesites",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "T"
+                    "group": "T",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Ceremonial Services Holidays & Events",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "T"
+                    "group": "T",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Disinterments Services",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "T"
+                    "group": "T",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Guest & Family Visitation",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "T"
+                    "group": "T",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Interment Services",
                     "value": 0.9999995,
                     "colname": "level3",
-                    "group": "T"
+                    "group": "T",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Veteran Interments Memorial Services",
                     "value": 0.9999994,
                     "colname": "level3",
-                    "group": "T"
+                    "group": "T",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Veteran Memorialization",
                     "value": 0.9999993,
                     "colname": "level3",
-                    "group": "T"
+                    "group": "T",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "",
                     "value": 0.9999992,
                     "colname": "level3",
-                    "group": "T"
+                    "group": "T",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -755,13 +863,15 @@
                     "name": "Office Admin Support Functions",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "U"
+                    "group": "U",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Org Leadership & Oversight",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "U"
+                    "group": "U",
+                    "color": "#a6adad"
                 }
             ]
         },
@@ -772,37 +882,43 @@
                     "name": "Enforcement Oversight",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "V"
+                    "group": "V",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Executive Protection",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "V"
+                    "group": "V",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Facility Security",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "V"
+                    "group": "V",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Identification, Authentication & Access",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "V"
+                    "group": "V",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Law Enforcement",
                     "value": 0.9999995,
                     "colname": "level3",
-                    "group": "V"
+                    "group": "V",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "",
                     "value": 0.9999994,
                     "colname": "level3",
-                    "group": "V"
+                    "group": "V",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -813,25 +929,29 @@
                     "name": "Determine Entitlement",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "W"
+                    "group": "W",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Develop Claim",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "W"
+                    "group": "W",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Establish Claim",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "W"
+                    "group": "W",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Manage Benefit Award",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "W"
+                    "group": "W",
+                    "color": "#a6adad"
                 }
             ]
         },
@@ -842,37 +962,43 @@
                     "name": "Inventory & Equipment",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "X"
+                    "group": "X",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Long-Range & Annual Capital Investments",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "X"
+                    "group": "X",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Property Acq & Control",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "X"
+                    "group": "X",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Property Design & Dev",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "X"
+                    "group": "X",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Property Operations Mgmt",
                     "value": 0.9999995,
                     "colname": "level3",
-                    "group": "X"
+                    "group": "X",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "",
                     "value": 0.9999994,
                     "colname": "level3",
-                    "group": "X"
+                    "group": "X",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -883,37 +1009,43 @@
                     "name": "Clinical Public Health",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "Y"
+                    "group": "Y",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Environmental Health",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "Y"
+                    "group": "Y",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Health Agencies",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "Y"
+                    "group": "Y",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Medical Registry Svc",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "Y"
+                    "group": "Y",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Public Health Alerts",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "Y"
+                    "group": "Y",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Public Health Assessment",
                     "value": 0.9999995,
                     "colname": "level3",
-                    "group": "Y"
+                    "group": "Y",
+                    "color": "#a6adad"
                 }
             ]
         },
@@ -924,25 +1056,29 @@
                     "name": "Sales Customer Relationship Mgmt",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "Z"
+                    "group": "Z",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Sales Inventory Fulfillment Mgmt",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "Z"
+                    "group": "Z",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Sales Ordering Mgmt",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "Z"
+                    "group": "Z",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "Z"
+                    "group": "Z",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -953,25 +1089,29 @@
                     "name": "Coordinate Continuity Ops",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "a"
+                    "group": "a",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Disasters and Emergencies",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "a"
+                    "group": "a",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Integrated Operations Center",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "a"
+                    "group": "a",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Respond to Disasters",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "a"
+                    "group": "a",
+                    "color": "#a6adad"
                 }
             ]
         },
@@ -982,37 +1122,43 @@
                     "name": "Fleet Mgmt",
                     "value": 0.9999999,
                     "colname": "level3",
-                    "group": "b"
+                    "group": "b",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Subsidy Program Mgmt",
                     "value": 0.9999998,
                     "colname": "level3",
-                    "group": "b"
+                    "group": "b",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Temporary & Permanent Change of Station",
                     "value": 0.9999997,
                     "colname": "level3",
-                    "group": "b"
+                    "group": "b",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Temporary Duty & Local Travel Processing",
                     "value": 0.9999996,
                     "colname": "level3",
-                    "group": "b"
+                    "group": "b",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "Travel & Fleet Card Mgmt",
                     "value": 0.9999995,
                     "colname": "level3",
-                    "group": "b"
+                    "group": "b",
+                    "color": "#a6adad"
                 },
                 {
                     "name": "",
                     "value": 0.9999994,
                     "colname": "level3",
-                    "group": "b"
+                    "group": "b",
+                    "color": "#234b8c"
                 }
             ]
         },
@@ -1023,7 +1169,8 @@
                     "name": "",
                     "value": 1.0,
                     "colname": "level3",
-                    "group": "c"
+                    "group": "c",
+                    "color": "#234b8c"
                 }
             ]
         }
