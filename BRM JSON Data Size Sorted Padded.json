@@ -2307,6 +2307,21 @@
                     "namesix": "",
                     "nameseven": "",
                     "nameeight": ""
+                },
+                {
+                    "name": " ",
+                    "value": 1.0,
+                    "colname": "level3",
+                    "group": "D",
+                    "color": "#234b8c",
+                    "nameone": "",
+                    "nametwo": "",
+                    "namethree": "",
+                    "namefour": "",
+                    "namefive": "",
+                    "namesix": "",
+                    "nameseven": "",
+                    "nameeight": ""
                 }
             ]
         },
@@ -2327,6 +2342,21 @@
                     "namesix": "",
                     "nameseven": "",
                     "nameeight": ""
+                },
+                {
+                    "name": " ",
+                    "value": 1.0,
+                    "colname": "level3",
+                    "group": "O",
+                    "color": "#234b8c",
+                    "nameone": "",
+                    "nametwo": "",
+                    "namethree": "",
+                    "namefour": "",
+                    "namefive": "",
+                    "namesix": "",
+                    "nameseven": "",
+                    "nameeight": ""
                 }
             ]
         },
@@ -2335,6 +2365,21 @@
             "children": [
                 {
                     "name": "",
+                    "value": 1.0,
+                    "colname": "level3",
+                    "group": "c",
+                    "color": "#234b8c",
+                    "nameone": "",
+                    "nametwo": "",
+                    "namethree": "",
+                    "namefour": "",
+                    "namefive": "",
+                    "namesix": "",
+                    "nameseven": "",
+                    "nameeight": ""
+                },
+                {
+                    "name": " ",
                     "value": 1.0,
                     "colname": "level3",
                     "group": "c",
